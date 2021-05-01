@@ -5,7 +5,7 @@
 | - [x] Array | Reverse the array |
 | - [x] Array | Find the maximum and minimum element in an array |
 | - [x] Array | Find the "Kth" max and min element of an array |
-| - [ ] Array |	Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo |
+| - [x] Array |	Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo |
 | - [ ] Array | Move all the negative elements to one side of the array |
 | - [ ] Array | Find the Union and Intersection of the two sorted arrays. |
 | - [ ] Array | Write a program to cyclically rotate an array by one. |
